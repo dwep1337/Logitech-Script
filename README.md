@@ -9,7 +9,7 @@ recoil control script all games
 
 3. Customize the script according to your needs. You can modify the events and actions associated with each event.
 
-## Supported Logitech Mice
+## Supported Logitech mouses
 
 This script is compatible with Logitech mice that support Lua scripting. Please ensure that your mouse is compatible before using this script.
 
