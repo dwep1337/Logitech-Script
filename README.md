@@ -1,15 +1,16 @@
-# recoil-control-
-recoil control script all games
+# recoil script
+
+recoil script work on all games
 
 ## Usage
 
 1. Copy the Lua script provided in the script file (src/script.lua).
 
-2. Configure your Logitech mouse software to run the Lua script
+2. Configure your Logitech mouse software (Logitech GHUB) to run the Lua script
 
 3. Customize the script according to your needs. You can modify the events and actions associated with each event.
 
-## Supported Logitech mouses
+## Supported only Logitech mouses
 
 This script is compatible with Logitech mice that support Lua scripting. Please ensure that your mouse is compatible before using this script.
 
