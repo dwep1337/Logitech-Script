@@ -2,6 +2,8 @@
 
 recoil script work on all games
 
+docs: https://douile.com/logitech-toggle-keys/APIDocs.pdf
+
 ## Usage
 
 1. Copy the Lua script provided in the script file (src/script.lua).
