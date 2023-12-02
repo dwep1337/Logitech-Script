@@ -10,6 +10,8 @@ docs: https://douile.com/logitech-toggle-keys/APIDocs.pdf
 
 2. Configure your Logitech mouse software (Logitech GHUB) to run the Lua script
 
+3. Mouse 4 On/off
+
 
 ## Supported only Logitech mouses
 
