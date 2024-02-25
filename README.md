@@ -1,4 +1,4 @@
-# recoil script
+# recoil script for logitech mouse
 
 recoil script work on all games
 
